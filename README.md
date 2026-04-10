@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Astellis
 
-<!--
-**Andrew-Lish/Andrew-Lish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical consultant · hobbyist developer**
 
-Here are some ideas to get you started:
+## Day job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've spent the last 5 years at Celmec as a technical consultant, working on internal business tools — covering everything from development and implementation through to analysis and ongoing improvement.
+
+- Developing and implementing internal systems
+- Analysing requirements and existing processes
+- Bridging the gap between technical and business needs
+
+`VB` `C#` `Systems analysis` `Implementation` `Technical consulting`
+
+## Side projects
+
+In my own time I like to build things — whatever catches my interest. Right now that's mostly Minecraft mods, but this space tends to change.
+
+- Personal and experimental — nothing here is production code
+- A place to explore ideas outside of work constraints
+
+`Java` `NeoForge`
+
+---
+
+*Feel free to explore the repos or reach out.*
