@@ -10,16 +10,16 @@ I've spent the last 5 years at Celmec as a technical consultant, working on inte
 - Analysing requirements and existing processes
 - Bridging the gap between technical and business needs
 
-`VB` `C#` `Systems analysis` `Implementation` `Technical consulting`
+`VB` `C#` `Systems analysis` `Technical consulting`
 
 ## Side projects
 
 In my own time I like to build things — whatever catches my interest. Right now that's mostly Minecraft mods, but this space tends to change.
 
-- Personal and experimental — nothing here is production code
+- Personal and experimental 
 - A place to explore ideas outside of work constraints
 
-`Java` `NeoForge`
+`Java` `Modding` `Game Design` 
 
 ---
 
